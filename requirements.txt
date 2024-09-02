@@ -1,0 +1,12 @@
+loguru
+ultralytics==8.0.215
+cython_bbox
+numpy
+opencv-python
+scipy
+pyyaml
+easydict
+pandas
+tensorboard
+
+
